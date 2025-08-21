@@ -5,4 +5,4 @@ Guidelines:
     Perform feature engineering (e.g., credit utilization rate)
     Use logistic regression, LightGBM, or scorecard models
 
-    
+This project was given by CODEC Technologies for my Data Science internship.
